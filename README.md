@@ -1,0 +1,2 @@
+# browser_memo_extension
+ブラウザで閲覧中のページの文言をメモできるchrome拡張(を作りたい)
